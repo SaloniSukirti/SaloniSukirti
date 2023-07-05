@@ -1,10 +1,7 @@
 ### Hi there 👋
+I'm Saloni Sukirti
 
 <!--
-**SaloniSukirti/SaloniSukirti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,5 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/SaloniSukirti/SaloniSukirti/assets/78682758/9d751ede-e885-4a1c-a495-70ffa82ea5c8
 -->
-![image](https://github.com/SaloniSukirti/SaloniSukirti/assets/78682758/c78d11e5-186d-4be7-9633-08cafa64bff6)
+
+<img align="center" alt="Coding" width="400" src= https://github.com/SaloniSukirti/SaloniSukirti/assets/78682758/f17b17b2-a673-4b15-9afd-073a8bccff8d>
+
+
